@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:6018635
 #EXTINF:10.010000,
-https://zacksb.vercel.app/api/v1/vod/documents/file_109.ts
+https://cph-msl.akamaized.net/hls/live/2000341/test/segment_4_20240429_1714398775.ts
 #EXTINF:10.978767,
 https://zacksb.vercel.app/api/v1/vod/documents/file_110.ts
 #EXTINF:10.000000,
